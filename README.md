@@ -1,3 +1,6 @@
+
+--->Pour voir une vidéo démonstrative : https://drive.google.com/file/d/1XsNfHrS8Xwh-J25i-vyfhb-0cHr3eFdq/view?usp=drive_link 
+
 # 🎓 QR-Absence-Manager
 ### Système de Gestion d'Assiduité Universitaire Sécurisé par QR Code
 
