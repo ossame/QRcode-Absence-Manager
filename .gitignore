@@ -1,0 +1,28 @@
+# --- Django / Python ---
+*.py[cod]
+__pycache__/
+.env
+db.sqlite3
+media/
+staticfiles/
+venv/
+.venv/
+
+# --- Flutter / Dart ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+android/**/generated/
+android/key.properties
+
+# --- IDEs and OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
